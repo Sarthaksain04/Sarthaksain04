@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Sain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://cdn.myportfolio.com/7251db90-4d40-4c71-b719-38118349926b/0f99ad7f-2a5a-4fdc-a074-53b7e002a828_rw_1920.gif?h=f28c2774ebe38ffca136676ba204fdc0">
+<img align="right"alt="coding"width="400"src="https://res.cloudinary.com/practicaldev/image/fetch/s--RSrVjzgo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lesbaa8cdfhy794wp41a.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthaksain04" alt="sarthaksain04" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
