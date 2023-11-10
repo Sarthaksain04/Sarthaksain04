@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Sain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/Sarthaksain04/Sarthaksain04/assets/126637052/b78f304c-d9fd-4531-955b-f4fd42bc3058)
-">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksain04&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksain04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthaksain04" alt="sarthaksain04" /></a> </p>
