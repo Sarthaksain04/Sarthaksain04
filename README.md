@@ -1,6 +1,6 @@
 <h1 
 <h1 align="center">Hi 👋, I'm Sarthak Sain</h1>
-    
+ <img align="right"alt="coding"width="400"src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">   
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
