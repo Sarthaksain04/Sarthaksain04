@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <p><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthaksain04&show_icons=true&locale=en&layout=compact" alt="sarthaksain04" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthaksain04&show_icons=true&locale=en&layout=compact" alt="sarthaksain04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthaksain04&show_icons=true&locale=en" alt="sarthaksain04" /></p>
 
