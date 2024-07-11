@@ -1,4 +1,4 @@
-<h1> 
+<h1 align="center"> 
   hi I'am Sarthak sain </h1>
    
 </h1>
