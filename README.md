@@ -1,5 +1,5 @@
 <h1 
-<h1 align="center">Hi 👋, I'm Sarthak Sain</h1>
+<h1 align="center">font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)"></h1>
    
 </h1>
 
